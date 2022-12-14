@@ -1,4 +1,4 @@
-const GifGridItem = ({title, url}) => {
+export const GifGridItem = ({title, url}) => {
     return (
         <div className="card">
             <img src={url} alt={title}/>
@@ -6,5 +6,3 @@ const GifGridItem = ({title, url}) => {
         </div>
     )
 }
-
-export default GifGridItem

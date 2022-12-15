@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in the GifGridItem component Must match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Dragon Ball"
+      src="https://media1.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif?cid=0e87d200z5alyfsv7135ihz623f3wli93uiyn1umo1han6pm&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Dragon Ball
+    </p>
+  </div>
+</div>
+`;
